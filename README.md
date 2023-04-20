@@ -1,16 +1,16 @@
 # MODULE THREE
 
-This "module 3" shows the fundamental syntax and operation of how to mint an NFT, to deployed Contracts.
+This "module 3" shows the fundamental syntax and operation of how to deployed Smart Contracts.
 
 ## Description
 
-This software demonstrates basic minting, mint transactions, burn transactions, and balance transactions.
+With the help of this software, users can deploy contracts, determine their value, and perform mint, burn, and balance transactions.
 
 ## Getting Started
 
 ### Executing program
 
-* We may execute this Solidity program using Remix IDE.
+* We could use an solidity compiler IDE, but we execute this project solidity program using Remix IDE.
 * Make a new file in the Remix ethereum IDE (https://remix.ethereum.org) and save it as a .sol file.
 ```
 //SPDX-License-Identifier: MIT
@@ -46,7 +46,7 @@ contract ModuleThree {
 
 * After coding your code, you will click the Solidity Compiler at the left-side of IDE, after that, you'll also click the Deploy under the Solidity Compiler.
 
-* You will paste the address at Mint Burn and Balances after you have copied it.
+* You will paste the address at Mint, Burn, and Balances after you have copied it.
 
 * You must first transact with the mint before burn and obtain the balances.
 
