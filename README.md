@@ -1,6 +1,6 @@
 # MODULE THREE
 
-This "module 3" demonstrates the deployment of Smart Contracts' fundamental syntax and operation.
+This "module 3" demonstrates the deployment of Smart Contracts' basic fundamental syntax and operation.
 
 
 ## Description
