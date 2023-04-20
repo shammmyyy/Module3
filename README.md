@@ -1,17 +1,19 @@
 # MODULE THREE
 
-This "module 3" shows the fundamental syntax and operation of how to deployed Smart Contracts.
+This "module 3" demonstrates the deployment of Smart Contracts' fundamental syntax and operation.
+
 
 ## Description
 
 With the help of this software, users can deploy contracts, determine their value, and perform mint, burn, and balance transactions.
+In order to deploy and test smart contracts, which are almost exclusively written in Solidity, Ethereum Remix IDE is used.
 
 ## Getting Started
 
 ### Executing program
 
 * We could use an solidity compiler IDE, but we execute this project solidity program using Remix IDE.
-* Make a new file in the Remix ethereum IDE (https://remix.ethereum.org) and save it as a .sol file.
+* Make a new file in the Remix ethereum IDE (https://remix.ethereum.org) 
 ```
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
